@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "青娥娘娘1号", "青娥娘娘1号\青娥娘娘1号.csproj", "{4ADE1420-8A21-49D7-A08E-444988B873CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "青娥娘娘2号", "青娥娘娘2号\青娥娘娘2号.csproj", "{ED3B7120-E4D0-4F28-8AE0-73BA07C51012}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4ADE1420-8A21-49D7-A08E-444988B873CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4ADE1420-8A21-49D7-A08E-444988B873CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4ADE1420-8A21-49D7-A08E-444988B873CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4ADE1420-8A21-49D7-A08E-444988B873CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED3B7120-E4D0-4F28-8AE0-73BA07C51012}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED3B7120-E4D0-4F28-8AE0-73BA07C51012}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED3B7120-E4D0-4F28-8AE0-73BA07C51012}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED3B7120-E4D0-4F28-8AE0-73BA07C51012}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B96E94E-3F56-4B82-9C46-E97B5344E08F}
+	EndGlobalSection
+EndGlobal
